@@ -1,6 +1,6 @@
 # loancalculator_app
 
-A new Flutter project.
+A new Loan Calculator Flutter project.
 
 ## Getting Started
 
